@@ -1,0 +1,3 @@
+# Ma configuration Git 
+user.name = rania-kett 
+user.email = raniakett.28@gmail.com 
